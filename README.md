@@ -11,3 +11,8 @@ An end-to-end implementation and simulation of the **Artificial Bee Colony (ABC)
 - Colony Size: 30
 - Limit: 20
 - Max Iterations: 50
+
+![ABC Flowchart](screenshots/flowchart.jpg)
+
+
+![NetLogo Simulation](screenshots/bees.png)

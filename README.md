@@ -12,7 +12,11 @@ An end-to-end implementation and simulation of the **Artificial Bee Colony (ABC)
 - Limit: 20
 - Max Iterations: 50
 
+# flowchart :
+
+
 ![ABC Flowchart](screenshots/flowchart.jpg)
 
+# Netlogo Simulation : 
 
 ![NetLogo Simulation](screenshots/bees.png)
